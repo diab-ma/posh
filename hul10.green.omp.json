@@ -45,7 +45,7 @@
           "type": "session"
         },
         {
-          "background": "#ffffd6",
+          "background": "#81ff91",
           "foreground": "p:black",
           "properties": {
             "branch_icon": " \ue0a0 "
