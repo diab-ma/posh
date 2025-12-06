@@ -38,7 +38,7 @@
           "type": "shell"
         },
         {
-          "background": "#82fb82",
+          "background": "#81ff91",
           "foreground": "p:black",
           "style": "plain",
           "template": " \uf2c0 {{.HostName}}\ue0bd{{.UserName}}\u2800",
